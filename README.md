@@ -9,7 +9,7 @@
 - 😄 Cinsiyet: Erkek
 - ⚡ Eğlenceli gerçek: HTML - CSS - JavaScript
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=ercanckr)](ercanckr) 
+[![Github Badge](https://img.shields.io/badge/-ercanckr-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](ercanckr) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=@ercancakir7)](@@ercancakir7) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=@cakirercn)](@cakirercn) 
 

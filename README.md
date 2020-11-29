@@ -1,3 +1,4 @@
+ Merhabalar👋
 
 - 🔭 Şu an HTML - CSS - JavaScript üzerinde çalışıyorum.
 - 🌱 Şu an HTML - CSS - JavaScript öğrenmekteyim.
